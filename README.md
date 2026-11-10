@@ -40,19 +40,19 @@ CRUD de alumnos conectado a MySQL. Cada alumno pertenece a una escuela, usando u
 ## Capturas
 
 ### Crear
-![Crear](capturas/crear.png)
+![Crear](Capturas/crear.png)
 
 ### Leer, con el nombre de la escuela
-![Leer](capturas/leer.png)
+![Leer](Capturas/leer.png)
 
 ### Actualizar
-![Actualizar](capturas/actualizar.png)
+![Actualizar](Capturas/actualizar.png)
 
 ### Eliminar
-![Eliminar](capturas/eliminar.png)
+![Eliminar](Capturas/eliminar.png)
 
 ### Relación en MySQL
-![Relacion](capturas/relacion.png)
+![Relacion](Capturas/relacion.png)
 
 ## Despliegue
 
