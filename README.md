@@ -37,6 +37,15 @@ CRUD de alumnos conectado a MySQL. Cada alumno pertenece a una escuela, usando u
 
 **Proyecto en el VPS:** http://179.197.82.130:8086/alumnos
 
+## Ejemplo del video
+
+CRUD de ciudades (`City`) hecho siguiendo el video de referencia.
+
+| Controlador | Ruta | Enlace |
+|---|---|---|
+| `CityController` | `/` | http://179.197.82.130:8086/ |
+
+
 ## Capturas
 
 ### Crear
